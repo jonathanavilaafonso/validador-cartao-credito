@@ -4,6 +4,8 @@ O site é um validador de número de cartão de crédito. Após o usuário inser
 
 Trabalho realizado em junho de 2018 como produto final do Sprint 1 da Laboratória e refatorado em setembro de 2018. 
 
+Página: https://marciapsilva.github.io/validador-cartao-credito/
+
 ## Requisitos 
 
 Os requisitos deste desafio eram:
